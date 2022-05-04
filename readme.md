@@ -2,15 +2,14 @@
 
 ## 0.Version
     Ceci est la version 2 du projet.
-    -------------
-    Projet OK
-    -------------
-    Utilisation API google Maps pour trouver des trajets proche de la destination du client
-    -------------
-    BDD modifié, 2 tables en plus, une pour chaque ville (dep et arr) --> Modifier les champs de requetes
-                --> Adapter les requetes au nouvelles tables
 
-## 1.Auteurs
+## 1.Projet
+    A l'aide de cette application en PHP, il sera possible pour tous les étudiants d'ISEN Nantes
+    de faire du covoiturage à moindre coût.
+    Cela permettra aux étudiants de faire de nouvelles rencontres.
+    Le but de ce projet est d'éviter les trajets inutiles, de telle sorte que les étudiants soient éco-responsables.
+
+## 2.Auteurs
     Emeric Guichet M1 Nantes
     AppISEN
     ENV'ISEN
